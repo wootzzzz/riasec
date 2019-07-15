@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="jDialogRealistic">
+      <Properties>
+        <Property name="title" type="java.lang.String" value="Realistic"/>
+        <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+          <Point value="[0, 0]"/>
+        </Property>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1600, 860]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel4" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel4" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel4">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Component id="jScrollPane3" pref="1484" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane3" pref="1467" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea3">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="24" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="R = Realistic&#xa;&#xa;These people are often good at mehanical or athletic jobs. Good college majors for Realistic people are...&#xa;&#xa;R: Realistic (Doers) &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;TRACKS / STRAND&#xa;&#xa;&#x2022;&#x9;Aerospace/Aeronautical Engineer (with Investigative)&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Agriculture&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Anthropology/Paleontology (with Investigative) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Architect (with Artistic and Enterprising) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Astronomy (with Investigative) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Carpenter (with Conventional and Investigative) &#x9;&#x9;&#x9;&#x9;H.E.&#xa;&#x2022;&#x9;Chef (with Enterprising and Artistic) &#x9;&#x9;&#x9;&#x9;&#x9;H.E.&#xa;&#x2022;&#x9;Chemistry/Chemist (with Investigative and Conventional) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Computer engineering/Computer science/Information technology/Computer programmer &#x9;&#x9;STEM / ICT&#xa;(with Investigative and Conventional)&#x9;&#x9;&#x9;&#x9;&#xa;&#x2022;&#x9;Dance (with Artistic) &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Dentist (with Investigative and Social) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Engineer (with Investigative and Conventional) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Environmental science&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Fashion design (with Artistic and Enterprising) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Fine Artist, Including Painter, Sculptor and Illustrator (with Artistic) &#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Firefighter (with Social and Enterprising) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Graphic designer (with Artistic and Enterprising) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN / ICT&#xa;&#x2022;&#x9;Interior design (with Artistic) &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Model (people) (with Artistic and Enterprising) &#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Musician (with Artistic and Enterprising) &#x9;&#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Nurse (with Social, Conventional, and Investigative) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Park Naturalist (with Social and Artistic) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Personal trainer (with Enterprising and Social) &#x9;&#x9;&#x9;&#x9;SPORTS&#xa;&#x2022;&#x9;Photographer (with Artistic and Enterprising) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN / ICT&#xa;&#x2022;&#x9;Physical therapy (with Social and Investigative) &#x9;&#x9;&#x9;&#x9;STEM / SPORTS&#xa;&#x2022;&#x9;Driver&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;H.E.&#xa;&#x2022;&#x9;Surgeon (with Investigative and Social) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Veterinarian (with Investigative and Social) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Web developer (with Conventional, Artistic, and Investigative) &#x9;&#x9;&#x9;ICT &#xa;&#x2022;&#x9;Zoologists and Wildlife Biologists (with Investigative) &#x9;&#x9;&#x9;&#x9;STEM&#xa;"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="jDialogInvestigative">
+      <Properties>
+        <Property name="title" type="java.lang.String" value="Investigative"/>
+        <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+          <Point value="[0, 0]"/>
+        </Property>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1600, 860]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel6" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel6" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel6">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Component id="jScrollPane5" pref="946" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane5" pref="519" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea5">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="24" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="I = Investigative&#xa;&#xa;These people like to watch, learn, analyze and solve problems. Good college majors for Investigative people are...&#xa;&#xa;I: Investigative (Thinkers)&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;               TRACKS / STRAND&#xa;&#x2022;&#x9;Actuary (with Conventional and Enterprising) &#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Archivist/Librarian (with Social and Conventional) &#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Carpenter (with Conventional and Realistic) &#x9;&#x9;&#x9;&#x9;&#x9;H.E.&#xa;&#x2022;&#x9;Chemistry/Chemist (with Realistic and Conventional) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Computer engineering/Computer science/Information technology/Computer programmer &#x9;&#x9;STEM / ICT&#xa;(with Realistic and Conventional) &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#xa;&#x2022;&#x9;Counselor (with Social and Artistic) &#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Dentist (with Realistic and Social) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Dietitian/Nutritionist (with Social and Enterprising) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Economics (with Conventional and social) &#x9;&#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Engineer (with Realistic and Conventional) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Finance (with Enterprising and Conventional) &#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Lawyer (with Enterprising and Social) &#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Mathematician (with Artistic)&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;STEM / ABM&#xa;&#x2022;&#x9;Nurse (with Realistic, Conventional, and Social) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Pharmacist (with Social and Conventional)&#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Physical therapy (with Social and Realistic) &#x9;&#x9;&#x9;&#x9;&#x9;STEM / SPORTS&#xa;&#x2022;&#x9;Physician (Medical school/Medical research) (with Social) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Physics&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Professor (all fields) &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;ALL TRACKS&#xa;&#x2022;&#x9;Psychology/Psychologist (with Social and Artistic) &#x9;&#x9;&#x9;&#x9;(B.S.)STEM / (A.B.)HUMSS&#xa;&#x2022;&#x9;Social Work&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Surgeon (with Realistic and Social) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Technical writer (with Artistic and Conventional) &#x9;&#x9;&#x9;&#x9;HUMSS / ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Tutor (with Social) &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;HUMSS / GAS&#xa;&#x2022;&#x9;Veterinarian (with Realistic and Social) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Web developer (with Conventional, Realistic, and Artistic) &#x9;&#x9;&#x9;&#x9;ICT / STEM&#xa;&#x2022;&#x9;Zoologists and Wildlife Biologists (with Realistic)&#x9;&#x9;&#x9;&#x9;STEM&#xa;"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="jDialogArtistic">
+      <Properties>
+        <Property name="title" type="java.lang.String" value="Artistic"/>
+        <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+          <Point value="[0, 0]"/>
+        </Property>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1600, 860]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel8" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel8" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel8">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Component id="jScrollPane7" pref="946" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane7" pref="519" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane7">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea7">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="24" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="A = Artistic&#xa;&#xa;These people like to work in unstructed situations where they can use their creativity. Good majors for Artistic people are...&#xa;&#xa;A: Artistic (Creators)&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;TRACKS / STRAND&#xa;&#x2022;&#x9;Architect (with Realistic and Enterprising) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Broadcast journalism (with Enterprising) &#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Clergy (with Social and Enterprising) &#x9;&#x9;&#x9;&#x9;&#x9;HUMSS / ABM&#xa;&#x2022;&#x9;Chef (with Enterprising and Realistic)&#x9;&#x9;&#x9;&#x9;&#x9;H.E.&#xa;&#x2022;&#x9;Counselor (with Investigative and Social) &#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Dance (with Realistic) &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Fashion design (with Realistic and Enterprising) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Fine Artist, Including Painter, Sculptor and Illustrator (with Realistic) &#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Graphic designer (with Enterprising and Realistic) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN / ICT&#xa;&#x2022;&#x9;Interior design (with Realistic) &#x9;&#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#x9;&#x9;&#x9;&#x9;&#xa;&#x2022;&#x9;Model (people) (with Realistic and Enterprising) &#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Musician (with Enterprising and Realistic) &#x9;&#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Park Naturalist (with Social and Realistic) &#x9;&#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Psychology/Psychologist (with Social and Investigative)&#x9;&#x9;&#x9;&#x9;(B.S.)STEM / (A.B.)HUMSS&#xa;&#x2022;&#x9;Art therapist/Dance therapy/Drama therapy/Music therapy (with social)&#x9;&#x9;&#x9;STEM &amp; ARTS / DESIGN&#xa;&#x2022;&#x9;Public relations (with Enterprising) &#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Photographer (with Realistic and Enterprising) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN / ICT&#xa;&#x2022;&#x9;Teacher (with Social) &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;GAS / HUMSS&#xa;&#x2022;&#x9;Technical writer (with Investigative and Conventional) &#x9;&#x9;&#x9;&#x9;HUMSS / ARTS &amp; &#xa;   &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DESIGN              &#xa;&#x2022;&#x9;Trainer (business) (with Social and Conventional) &#x9;&#x9;&#x9;&#x9;ABM / HUMSS&#xa;&#x2022;&#x9;Web developer (with Conventional, Realistic, and Investigative) &#x9;&#x9;&#x9;ICT / STEM&#xa;"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="jDialogSocial">
+      <Properties>
+        <Property name="title" type="java.lang.String" value="Social"/>
+        <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+          <Point value="[0, 0]"/>
+        </Property>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1600, 860]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane8" alignment="0" pref="962" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane8" alignment="0" pref="552" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane8">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea8">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="24" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="S = Social&#xa;&#xa;These people like to work with other people, rather than things. Good college majors for Social People are...&#xa;&#xa;S: Social (Helpers)&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;TRACKS / STRAND&#xa;&#x2022;&#x9;Archivist/Librarian (with Conventional and Investigative) &#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Clergy (with Artistic and Enterprising) &#x9;&#x9;&#x9;&#x9;HUMSS / ABM&#xa;&#x2022;&#x9;Community Organizer&#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Counselor (with Investigative and Artistic) &#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Customer service (with Conventional and Enterprising) &#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Dentist (with Investigative and Realistic) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Dietitian/Nutritionist (with Investigative and Enterprising) &#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Economics (with Investigative and Conventional) &#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Education (Teacher/Counselor/Administration)&#x9;&#x9;&#x9;HUMSS / GAS&#xa;&#x2022;&#x9;Educational administration (with Enterprising and Conventional) &#x9;&#x9;HUMSS / GAS&#xa;&#x2022;&#x9;Firefighter (with Realistic and Enterprising) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Fitness Trainer and Aerobics Teacher (with Enterprising and Realistic) &#x9;&#x9;ARTS &amp; DESIGN / HUMSS&#xa;&#x2022;&#x9;Foreign Service/Diplomacy (with Enterprising and Artistic) &#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Human Resources (with Conventional and Enterprising) &#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Lawyer (with Investigative and Enterprising) &#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Nurse (with Realistic, Conventional, and Investigative) &#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Park Naturalist (with Realistic and Artistic) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Pharmacist (with Investigative and Conventional) &#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Physical therapy (with Realistic and Investigative) &#x9;&#x9;&#x9;STEM / ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Physician (Medical school/Medical research) (with Investigative) &#x9;&#x9;STEM&#xa;&#x2022;&#x9;Professor (with Enterprising and Investigative) &#x9;&#x9;&#x9;ALL TRACKS&#xa;&#x2022;&#x9;Psychology/Psychologist (with Investigative and Artistic) &#x9;&#x9;&#x9;(B.S.)STEM / (A.B.)HUMSS&#xa;&#x2022;&#x9;Social Advocate&#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Sociology&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Social Work&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Surgeon (with Realistic and Investigative) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Teacher (Early childhood education, Primary school, Secondary school, &#xa;Teaching English as a second language, Special Ed, and Substitute teaching) (with Artistic) &#x9;HUMSS / GAS&#xa;&#x2022;&#x9;Trainer (business) (with Artistic and Conventional) &#x9;&#x9;&#x9;ABM / HUMSS&#xa;&#x2022;&#x9;Tutor (with Investigative) &#x9;&#x9;&#x9;&#x9;&#x9;HUMSS / GAS&#xa;&#x2022;&#x9;Veterinarian (with Investigative and Realistic)&#x9;&#x9;&#x9;STEM&#xa;"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="jDialogEnterprising">
+      <Properties>
+        <Property name="title" type="java.lang.String" value="Enterprising"/>
+        <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+          <Point value="[0, 0]"/>
+        </Property>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1600, 860]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel12" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel12" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel12">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Component id="jScrollPane11" pref="946" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane11" pref="519" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane11">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea11">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="24" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="E = Enterprising&#xa;&#xa;These people like to work with others and enjoy persuading and performing. Good college majors for Enterprising people are...&#xa;&#xa;E: Enterprising (Persuaders)&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;TRACKS / STRAND&#xa;&#x2022;&#x9;Actuary (with Investigative and Conventional) &#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Architect (with Artistic and Realistic) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Business&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Buyer&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Chef (with Realistic and Artistic) &#x9;&#x9;&#x9;&#x9;H.E.&#xa;&#x2022;&#x9;Clergy (with Artistic and Social) &#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Customer service (with Conventional and Social) &#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Dietitian/Nutritionist (with Social and Investigative) &#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Educational administration (with Social and Conventional) &#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Entrepreneur&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Fashion design (with Artistic and Realistic) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Finance (with Conventional and Investigative) &#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Foreign Service/Diplomacy (with Social and Artistic) &#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Firefighter (with Social and Realistic) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Fitness Trainer and Aerobics Teacher (with Realistic and Social) &#x9;&#x9;SPORTS / HUMSS&#xa;&#x2022;&#x9;Graphic designer (with Artistic and Realistic) &#x9;&#x9;&#x9;ARTS &amp; DESIGN / ICT&#x9;&#xa;&#x2022;&#x9;Human Resources (with Conventional and Social) &#x9;&#x9;&#x9;HUMSS / ABM&#xa;&#x2022;&#x9;Broadcast journalism (with Artistic) &#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Lawyer (with Investigative and Social)&#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Management/Management Consultant&#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Market Research Analyst&#x9;&#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Model (people) (with Artistic and Realistic) &#x9;&#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Musician (with Artistic and Realistic) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN&#xa;&#x2022;&#x9;Photographer (with Artistic and Realistic) &#x9;&#x9;&#x9;&#x9;ARTS &amp; DESIGN / ICT&#xa;&#x2022;&#x9;Public relations/Publicity/Advertising/Marketing (with Artistic) &#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Real Estate (with Conventional) &#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Sales (with Conventional and Social) &#x9;&#x9;&#x9;&#x9;ABM&#xa;"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="jDialogConventional">
+      <Properties>
+        <Property name="title" type="java.lang.String" value="Conventional"/>
+        <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+          <Point value="[0, 0]"/>
+        </Property>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1600, 860]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel14" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel14" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel14">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Component id="jScrollPane13" pref="946" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane13" pref="519" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane13">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea13">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="24" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="C = Conventional&#xa;&#xa;These people are very detail oriented, organized and like to work with data. Good college majors for Conventional people are...&#xa;&#xa;C: Conventional (Organizers)&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;TRACKS / STRAND&#xa;&#x2022;&#x9;Accounting/Tax advisor&#x9;&#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Actuary (with Investigative and Enterprising) &#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Archivist/Librarian (with Social and Investigative) &#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Carpenter (with Realistic and Investigative) &#x9;&#x9;&#x9;&#x9;H.E.&#xa;&#x2022;&#x9;Chemistry/Chemist (with Investigative and Realistic) &#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Computer engineering/Computer science/Information technology/Computer programmer &#xa;(with Investigative and Realistic) &#x9;&#x9;&#x9;&#x9;&#x9;STEM / ICT&#xa;&#x2022;&#x9;Customer service (with Enterprising and Social) &#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Economics (with Investigative and Social) &#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Educational administration (with Social and Enterprising) &#x9;&#x9;&#x9;HUMSS / GAS&#xa;&#x2022;&#x9;Engineer (with Investigative and Realistic) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Finance (with Enterprising and Investigative) &#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Human Resources (with Enterprising and Social) &#x9;&#x9;&#x9;HUMSS&#xa;&#x2022;&#x9;Math teacher&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;HUMSS / GAS&#xa;&#x2022;&#x9;Nurse (with Realistic, Social, and Investigative) &#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Pharmacist (with Social and Investigative) &#x9;&#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Real Estate (with Enterprising) &#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Statistician (with Realistic and Investigative) &#x9;&#x9;&#x9;STEM&#xa;&#x2022;&#x9;Technical writer (with Artistic and Investigative) &#x9;&#x9;&#x9;ARTS &amp;DESIGN&#xa;&#x2022;&#x9;Trainer (business) (with Social and Artistic) &#x9;&#x9;&#x9;&#x9;ABM&#xa;&#x2022;&#x9;Web developer (with Artistic, Realistic, and Investigative)&#x9;&#x9;&#x9;ICT / STEM&#xa;"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="0"/>
+    <Property name="title" type="java.lang.String" value="Result Riasec"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="27" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="17" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lbl_name" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="btn_logout" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="lbl_investigative_total" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="lbl_enterprising_total" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="lbl_conventional_total" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="lbl_artistic_total" min="-2" max="-2" attributes="0"/>
+                                              <Component id="lbl_social_total" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="lbl_realistic_total" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="0" pref="89" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="107" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lbl_first_interest" min="-2" pref="81" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                                  <Component id="lbl_second_interest" min="-2" pref="81" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="lbl_third_interest" min="-2" pref="81" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lbl_name" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="btn_logout" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lbl_realistic_total" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lbl_investigative_total" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lbl_artistic_total" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lbl_social_total" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lbl_enterprising_total" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel7" alignment="3" min="-2" pref="28" max="-2" attributes="0"/>
+                      <Component id="lbl_conventional_total" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lbl_first_interest" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lbl_second_interest" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lbl_third_interest" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="45" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Name :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_realistic_total">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="R = Realistic&#x9;            Total : "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="I = Investigative       Total : "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="A = Artistic&#x9;              Total : "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="S = Social&#x9;                 Total :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="E = Enterprising       Total : "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="C = Conventional&#x9;     Total : "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_name">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_investigative_total">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_artistic_total">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_conventional_total">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_social_total">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_enterprising_total">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="48" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="My Interest Code"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_first_interest">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="48" style="0"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lbl_first_interestMouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_second_interest">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="48" style="0"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lbl_second_interestMouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lbl_third_interest">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="48" style="0"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="......."/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lbl_third_interestMouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btn_logout">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="14" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back To Login"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn_logoutActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
